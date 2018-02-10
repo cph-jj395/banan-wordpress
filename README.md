@@ -1,1 +1,2 @@
-# banan-wordpress
+# fruits-wordpress
+Skoleprojekt
